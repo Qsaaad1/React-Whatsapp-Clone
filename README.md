@@ -1,1 +1,10 @@
-A real time chat app similar to Whatsapp, made with ReactJS, NodeJS, Context API & using Firebase...
+# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
+
+# Tech Stack
+- React js
+- Firebase Firestore Realtime DB
+- Material UI
+- React Router
+- React Context API
+- Redux
+- Google Authentication
